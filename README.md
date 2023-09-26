@@ -1,1 +1,1 @@
-# Stainless
+Building a predictive system that can predict whether a person has diabetes or not. We will feed the data to our machine learning model and the machine learning model will learn from the data and its respective labels, we will train our model with several medical information such as blood glucose level, BMI,  and insulin level of patients to test if the outcome of the patient is diabetic or non-diabetic.
